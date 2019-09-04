@@ -11,5 +11,5 @@
         <p>php artisan config:cache</p>
         <p>php artisan route:cache</p>
         <p>php artisan migrate</p>
-    <li>
+    </li>
 </ol>
