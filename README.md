@@ -12,4 +12,7 @@
         <p>php artisan route:cache</p>
         <p>php artisan migrate</p>
     </li>
+    <li>Get an access key from data.fixer.io website</li>
+    <li>Check the file inside cronJobs folder and follow instructions to modify it accordingly</li>
+     <li>Check the file getImages.php inside public folder and follow instructions to modify it accordingly</li>
 </ol>
