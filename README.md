@@ -16,3 +16,9 @@
     <li>Check the file inside cronJobs folder and follow instructions to modify it accordingly</li>
      <li>Check the file getImages.php inside public folder and follow instructions to modify it accordingly</li>
 </ol>
+
+<p>After you've done everything above just open a terminal inside your project's folder and run the following command:</p>
+<ul>
+    <li>php artisan serve</li>
+</ul>
+<p>If everything went well you should be running the app now. Fire the browser of your choice and access the url given in the terminal</p>
