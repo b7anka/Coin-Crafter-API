@@ -1,0 +1,54 @@
+#message
+{
+    resize: none;
+    overflow: auto;
+}
+
+.btn-white {
+    color: black;
+    background-color: white;
+    border-color: ghostwhite;
+}
+
+.btn-white:hover {
+    color: black;
+    background-color: antiquewhite;
+    border-color: floralwhite;
+}
+
+.privacy
+{
+    color: white;
+}
+
+.privacy h1
+{
+    font-size: 5rem;
+}
+
+.privacy h2, h3, h4
+{
+    font-size: 3rem;
+}
+
+.privacy p
+{
+    font-size: 1.2rem;
+}
+
+.privacy ul li
+{
+    font-size: 1.5rem;
+}
+
+.error
+{
+    color: red;
+    font-weight: bold;
+}
+
+.play-store
+{
+    width: 156px;
+    height: 60px;
+}

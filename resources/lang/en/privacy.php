@@ -1,0 +1,23 @@
+<?php
+return [
+    'privacy_title' => 'Privacy Policy',
+    'information_collection' => 'Information Collection and Use',
+    'we_dont_collect_any' => 'We don\'t collect any.',
+    'types_of_data_collected' => 'Types of Data Collected',
+    'we_will_only_ask' => 'We will only ask for your personal information if you use our contact us page.',
+    'personal_data' => 'Personal Data',
+    'while_using_contact_us_page' => 'While using our contact us page we will ask you for this personal identifiable information:',
+    'first_name_last_name_email' => 'First name, last name and email',
+    'data_usage' => 'Usage of Data',
+    'uses_collected_data' => 'Coin Crafter uses the collected data:',
+    'customer_support' => 'To provide customer care and support',
+    'disclosure_of_data' =>'Disclosure Of Data',
+    'we_dont_disclose' => 'We do not disclose any of your personal information, because we don\'t store it anywhere. Therefore we can not provide what we don\'t have!',
+    'in_app_purchases_title' => 'In-App Purchases',
+    'in_app_purchases_content' => 'Coin Crafter mobile application offers an "in-app" purchase option which will lift all limitations of the app as well as remove all advertising. This is a one time payment and it will be processed through the Google Play Store or the Apple App Store from which you originally downloaded the application. You may access applicable "in-app" purchase rules and policies directly from the app stores.',
+    'ads_title' => 'Advertisements',
+    'ads_content' => 'Ads appearing on our mobile application may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your device each time they send you an online advertisement to compile information about you or others who use your device. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Hollywood Tracker and does not cover the use of cookies by any advertisers.',
+    'external_sites_title' => 'Links To External Sites',
+    'external_sites_content' => 'Our Service may contain links to external sites that are not operated by us. If you click on a third party link, you will be directed to that third party\'s site. We strongly advise you to review the Privacy Policy and terms and conditions of every site you visit.',
+    'external_sites_content_2' => 'We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites, products or services.',
+];
